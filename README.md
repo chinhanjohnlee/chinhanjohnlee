@@ -123,7 +123,7 @@ Focus areas:
 <b></b>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/chinhanjohnlee/osticket-prereqs)
  
 <br>
 
