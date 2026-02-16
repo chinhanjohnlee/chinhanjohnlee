@@ -103,21 +103,11 @@ Focus areas:
 
 > *Clarity → Intuition → Skill → Trust.*
 
-
-<h2> ⭐ Featured Projects:</h2>
-
-- [Active Directory: Practical Scenario Simulation](https://github.com/chinhanjohnlee/ad-scenario-simulation)
-- [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
-- [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/kirkgacias/spiceworks-knowledge-base)
-- [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
-
-<b></b>
-<b></b>
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
 
+  - [Active Directory: Practical Scenario Simulation](https://github.com/chinhanjohnlee/ad-scenario-simulation)
   - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
   - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
