@@ -1,6 +1,4 @@
-<h1>Hi, I'm John Lee, a <a href="https://www.linkedin.com/in/johnleetech/">Tech Professional with Specialization in Cybersecurity </a>☺</h1>
-
-# ⚡John Lee: Cybersecurity Portfolio  
+# ⚡John Lee: IT, Tech & Cybersecurity Portfolio  
 *A collection of labs, hunts, and infrastructure projects from a curious mind focused on understanding how security really works.*
 
 **I learn by doing.**
