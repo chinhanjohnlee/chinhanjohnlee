@@ -1,4 +1,4 @@
-<h1>Hi, I'm John Lee, a <a href="https://www.linkedin.com/in/johnleetech/">Tech Professional</a>☺</h1>
+<h1>Hi, I'm John Lee, a <a href="https://www.linkedin.com/in/johnleetech/">Tech Professional with Specialization in Cybersecurity </a>☺</h1>
 
 <h2> ⭐ Featured Projects:</h2>
 
