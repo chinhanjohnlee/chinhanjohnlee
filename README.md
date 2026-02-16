@@ -108,9 +108,9 @@ Focus areas:
 - <b>Active Directory</b>
 
   - [Active Directory: Practical Scenario Simulation](https://github.com/chinhanjohnlee/ad-scenario-simulation)
-  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
-  - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
-  - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
+  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/chinhanjohnlee/ad-and-azure-setup)
+  - [Active Directory Deployment and Configuration](https://github.com/chinhanjohnlee/ad-deployment-configuration)
+  - [Active Directory: User Generation](https://github.com/chinhanjohnlee/ad-user-generation)
 
 <b></b>
 <b></b>
