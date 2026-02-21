@@ -41,7 +41,7 @@ It reflects how I think about security: calmly, structurally, and with long-term
 
 ## 🛡️ Vulnerability Management
 
-🔹 **[Vulnerability Management Program Implementation](https://github.com/chinhanjohnlee/vulnerabitly-management-program)**  
+🔹 **[Vulnerability Management Program Implementation] (https://github.com/chinhanjohnlee/vulnerabitly-management-program)**  
 🔹 **[Windows 11 STIG Remediations (PowerShell)](https://github.com/williamolega/williamolega/tree/main/STIGs)**  
 
 Focus areas:
