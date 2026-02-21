@@ -53,7 +53,7 @@ Focus areas:
 
 ## 🕵️ Threat Hunting & Security Operations
 
-🔸 **[Tor Browser Threat Hunt](https://github.com/williamolega/Threat-Hunt-Scenario-Tor)**  
+🔸 **[Tor Browser Threat Hunt][(https://github.com/chinhanjohnlee/Threat-Hunt-Scenario-Tor)**  
 🔸 **[Helpdesk Deception Threat Hunt](https://github.com/williamolega/Helpdesk-Deception-Threat-Hunt)**  
 
 Focus areas:
